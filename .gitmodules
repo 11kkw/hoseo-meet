@@ -1,0 +1,6 @@
+[submodule "backend/hoseo_meet_django"]
+	path = backend/hoseo_meet_django
+	url = git@github.com:11kkw/hoseo-meet-backend-django.git
+[submodule "another-name"]
+	path = backend/django
+	url = https://github.com/11kkw/hoseo-meet-backend-django.git
